@@ -6,9 +6,9 @@ public class EncapsulationNotes {
 	 *******
 	 *
 	 *1.What is encapsulation?
-	 *Ans: Implementation of encapsulation
+	 *2.Implementation of encapsulation
 	 *
-	 *2.What is encapsulation?
+	 *1.What is encapsulation?
 	 *FIRST DEFINATION
 	 *
 	 *Ans: Encapsulation is a mechanism of wrapping the data and code acting on the data (methods) together as a single unit
@@ -190,11 +190,11 @@ public class EncapsulationNotes {
 	 *    ->Wrapping the code & data in a single unit
 	 *    Second Definition
 	 *    *****************
-	 *    ->Hidding the code & data from the rest of the world
+	 *    ->Hiding the code & data from the rest of the world
 	 *    
 	 *    Why encapsulation?
 	 *    ->To secure the data
-	 *    ->Dta can't be expose through object outSide 
+	 *    ->Data can't be expose through object outSide 
 	 *    How to secure?
 	 *    By using only methods you have more control
 	 *    
